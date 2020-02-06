@@ -1,0 +1,10 @@
+#版本信息
+###1.XAMPP
+7.1.33-1
+###2.PHP
+7.1.33
+###3.下载Laravel框架
+5.4   
+文档：https://learnku.com/docs/laravel/5.4
+###4.Composer
+1.9.2
